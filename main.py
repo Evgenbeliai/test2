@@ -27,4 +27,4 @@ def create():
    close()
 
 
-print("привет")
+print("пока")
