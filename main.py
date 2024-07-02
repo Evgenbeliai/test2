@@ -25,3 +25,6 @@ def create():
         FOREIGN KEY (question_id) REFERENCES question (id))''')
 
    close()
+
+
+print("привет")
