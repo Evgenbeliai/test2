@@ -2,7 +2,7 @@ def create():
     open()
     cursor.execute('''PRAGMA foreign_keys=on''')
 
-
+asdasd
     do('''CREATE TABLE IF NOT EXISTS quiz (
            id INTEGER PRIMARY KEY,
            name VARCHAR)''')
